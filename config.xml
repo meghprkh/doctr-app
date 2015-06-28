@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "org.meghprkh.doctr"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+  <name>Doctr</name>
+  <description>
+    The Ultimate Healthcare Platform
+  </description>
+  <author href="https://doctr-meghprkh.rhcloud.com" email="meghprkh@gmail.com">
+    Megh Parikh
+  </author>
+  <icon src="assets/Doctr.png" />
+
+  <gap:platform name="android" />
+  <preference name="permissions" value="none"/>
+</widget>
